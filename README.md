@@ -3,9 +3,9 @@
 
 <p align="center">- 👨‍💻 All of my projects are available at [https://github.com/prajwal6846](https://github.com/prajwal6846)</p>
 
-<p align="center">- 💬 Ask me about **SQL, Python, Power BI, Machine Learning, AWS**</p>
+<p align="center">- 💬 Ask me about SQL, Python, Power BI, Machine Learning, AWS</p>
 
-<p align="center">- 📫 How to reach me **jagreprajwal@gmail.com**</p>
+<p align="center">- 📫 How to reach me <a href="Emailto:jagreprajwal@gmail.com"> jagreprajwal@gmail.com </a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

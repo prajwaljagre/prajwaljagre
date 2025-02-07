@@ -5,7 +5,7 @@
 
 <p align="center">- 💬 Ask me about SQL, Python, Power BI, Machine Learning, AWS</p>
 
-<p align="center">- 📫 How to reach me <a href="Emailto:jagreprajwal@gmail.com" target = "blank"> jagreprajwal@gmail.com </a></p>
+<p align="center">- 📫 How to reach me <a href="mailto:jagreprajwal@gmail.com" target="_blank">jagreprajwal@gmail.com</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

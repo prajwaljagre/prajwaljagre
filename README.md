@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Jagre</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst | Master's in Business Analytics and Artificial Intelligence</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/prajwal6846](https://github.com/prajwal6846)
 
